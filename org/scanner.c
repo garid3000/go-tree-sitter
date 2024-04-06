@@ -1,6 +1,6 @@
 #include <assert.h>
 #include <stdio.h>
-#include <tree_sitter/parser.h>
+#include "parser.h"
 #include <wctype.h>
 
 #define MAX(a, b) ((a) > (b) ? (a) : (b))
